@@ -15,4 +15,4 @@ module.exports = {
   },
 };
 
-// 0x2e8C2586070fD0ab4927Cff52D4C7b0fe09B15f2 - contract address
+// 0x2e8C2586070fD0ab4927Cff52D4C7b0fe09B15f2 - deployed contract address

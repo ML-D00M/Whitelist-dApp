@@ -53,6 +53,7 @@ export default function Home() {
    * addAddressToWhitelist: Adds the current connected address to the whitelist
    */
   const addAddressToWhitelist = async () => {
+    console.log("It works for now");
     try {
       // We need a Signer here since this is a 'write' transaction.
       const signer = await getProviderOrSigner(true);
